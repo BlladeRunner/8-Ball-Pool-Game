@@ -27,3 +27,9 @@ body {
   min-width: 320px;
   min-height: 100vh;
 }
+
+h1 {
+  color: lightseagreen;
+  margin: 0;
+  margin-bottom: 20px;
+}
